@@ -1,0 +1,16 @@
+{
+  "maquinas": [
+    {
+      "id": "VX685",
+      "resumo_consolidado": {
+        "message": "1. Clique em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina.\\n2. Digite o número 3 e aperte o botão verde \"confirma\".\\nO resumo será impresso em seguida."
+      },
+      "resumo_detalhado": {
+        "message": "1. Clique em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina.\\n2. Digite o número 4 e aperte o botão verde \"confirma\".\\n O resumo será impresso em seguida."
+      },
+      "fechamento": {
+        "message": "1. Clique em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua maquininha.\\n2. Digite o número 5 e aperte o botão verde \"confirma\". Em seguida, aparecerão duas opções na tela: A opção 1 realiza o fechamentoe dá a opção de imprimir o fechamento que acabou de ser realizado. \\nA opção 2 imprime um fechamento que já foi efetuado anteriormente.Pode ficar tranquilo: A Stone paga independente do fechamento ter sido feito, sendo essa função apenas para o controle do lojista"
+      }
+    }
+  ]
+}
