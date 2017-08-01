@@ -45,7 +45,19 @@
         "message": "1. Clique no botão F2 para acessar a busca rápida pelas funções da sua máquina.\n2. Digite o número 4 e aperte o botão verde \"confirma\". \nO resumo será impresso em seguida."
       },
       "fechamento": {
-        "message": "1. Clique no botão F2 para acessar a busca rápida pelas funções da sua máquina.\n 2. Digite o número 5 e aperte o botão verde \"confirma\". \nEm seguida, aparecerão duas opções na tela:\nA opção 1 realiza o fechamento e dá a opção de imprimir o fechamento que acabou de ser realizado.\nA opção 2 imprime um fechamento que já foi efetuado anteriormente.\nPode ficar tranquilo: A Stone paga independente do fechamento ter sido feito, sendo essa função apenas para o controle do lojista."
+        "message": "1. Clique no botão F2 para acessar a busca rápida pelas funções da sua máquina.\n2. Digite o número 5 e aperte o botão verde \"confirma\". \nEm seguida, aparecerão duas opções na tela:\nA opção 1 realiza o fechamento e dá a opção de imprimir o fechamento que acabou de ser realizado.\nA opção 2 imprime um fechamento que já foi efetuado anteriormente.\nPode ficar tranquilo: A Stone paga independente do fechamento ter sido feito, sendo essa função apenas para o controle do lojista."
+      }
+    },
+    {
+      "id": "D210N",
+      "resumo_consolidado": {
+        "message": "Não tem. Pedir ao RC"
+      },
+      "resumo_detalhado": {
+        "message": "Não tem. Pedir ao RC"
+      },
+      "fechamento": {
+        "message": "Essa função permite organizar melhor o fluxo de vendas de um período. É possível fazer mais de um fechamento por dia caso seu estabelecimento funcione em dois turnos, por exemplo. A Stone não exige que o lojista faça o fechamento para receber seus pagamentos. Essa função é opcional.\nAo digitar o número 5, você vai ver duas opções:\nA opção 1 realiza o fechamento e permite a impressão do comprovante.A opção 2 imprime um fechamento que já foi efetuado anteriormente nessa mesma maquininha."
       }
     }
   ]
