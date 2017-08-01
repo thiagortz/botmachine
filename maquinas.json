@@ -19,6 +19,9 @@
       },
       "alterar_nome_comprovante": {
         "message": "asta clicar em \"Função\" na tela da maquininha para acessar a busca rápida pelas funções dela. Aí é só inserir o número 25, apertar o botão verde \"confirma\" e alterar o nome que aparece no recibo.\nImportante: O nome que aparece na tela inicial da maquininha é o nome fantasia ou nome de fatura que o lojista cadastrou no seu credenciamento com a Stone. Se quiser fazer alteração nessa parte, é preciso entrar em contato com o time de Relacionamento com o Cliente da Stone através do e-mail meajuda@stone.com.br ou telefone 3004-9680."
+      },
+      "alterar_som_teclas": {
+        "message": "1. Clique em \"Função\" na tela da maquininha para acessar a busca rápida pelas funções dela.\n2. Digite o número 22 e aperte o botão verde \"confirma\". \nPronto! Seu som está ativado ou foi desativado."
       }
     },
     {
@@ -40,6 +43,9 @@
       },
       "alterar_nome_comprovante": {
         "message": "Basta clicar no botão FUNÇÃO para acessar a busca rápida pelas funções da sua maquininha. Aí é só inserir o número 25, apertar o botão verde \"enter\", digitar a senha do administrador e alterar o nome que aparece no recibo."
+      },
+      "alterar_som_teclas": {
+        "message": "1. Clique no botão FUNÇÃO para acessar a busca rápida pelas funções da sua maquininha.\n2. Digite o número 22 e aperte o botão verde \"enter\". \nPronto! Seu som será ativado ou desativado."
       }
     },
     {
@@ -61,6 +67,9 @@
       },
       "alterar_nome_comprovante": {
         "message": "Basta clicar no botão 2 na tela da maquininha para acessar a busca rápida pelas funções dela. Aí é só inserir o número 25, apertar o botão verde \"confirma\", digitar a senha do administrador e alterar o nome que aparece no recibo.\nImportante: O nome que aparece na tela inicial da maquininha é o nome fantasia ou nome de fatura que o lojista cadastrou no seu credenciamento com a Stone. Se quiser fazer alteração nessa parte, é preciso entrar em contato com o time de Relacionamento com o Cliente da Stone através do e-mail meajuda@stone.com.br ou telefone 3004-9680."
+      },
+      "alterar_som_teclas": {
+        "message": "1. Clique no botão 2 na tela da maquininha para acessar a busca rápida pelas funções dela.\n2. Digite o número 22 e aperte o botão verde \"confirma\". \nPronto! Seu som está ativado ou foi desativado."
       }
     },
     {
@@ -82,6 +91,9 @@
       },
       "alterar_nome_comprovante": {
         "message": "Basta clicar no botão F2 para acessar a busca rápida pelas funções da sua maquininha. Aí é só inserir o número 25, apertar o botão verde \"confirma\", digitar a senha do administrador e alterar o nome que aparece no recibo."
+      },
+      "alterar_som_teclas": {
+        "message": "1. Clique no botão F2 para acessar a busca rápida pelas funções da sua maquininha.\n2. Digite o número 22 e aperte o botão verde \"confirma\". \nPronto! Seu som está ativado ou foi desativado."
       }
     },
     {
@@ -103,6 +115,9 @@
       },
       "alterar_nome_comprovante": {
         "message": "1. Clique em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina.\n2. Digite o número 6 e aperte o botão verde \"confirma\".\nO comprovante será reimpresso em seguida"
+      },
+      "alterar_som_teclas": {
+        "message": "Não tem. Pedir ao RC\n"
       }
     },
     {
@@ -124,6 +139,9 @@
       },
       "alterar_nome_comprovante": {
         "message": "1. Clique em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina.\n2. Digite o número 6 e aperte o botão verde \"confirma\".\nO comprovante será reimpresso em seguida"
+      },
+      "alterar_som_teclas": {
+        "message": "Não tem. Pedir ao RC"
       }
     },
     {
@@ -145,6 +163,9 @@
       },
       "alterar_nome_comprovante": {
         "message": "1. Clique em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina.\n2. Digite o número 6 e aperte o botão verde \"confirma\".\nO comprovante será reimpresso em seguida"
+      },
+      "alterar_som_teclas": {
+        "message": "Não tem. Pedir ao RC"
       }
     }
   ]
