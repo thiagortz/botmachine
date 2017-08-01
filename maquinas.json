@@ -59,6 +59,18 @@
       "fechamento": {
         "message": "Essa função permite organizar melhor o fluxo de vendas de um período. É possível fazer mais de um fechamento por dia caso seu estabelecimento funcione em dois turnos, por exemplo. A Stone não exige que o lojista faça o fechamento para receber seus pagamentos. Essa função é opcional.\nAo digitar o número 5, você vai ver duas opções:\nA opção 1 realiza o fechamento e permite a impressão do comprovante.A opção 2 imprime um fechamento que já foi efetuado anteriormente nessa mesma maquininha."
       }
+    },
+    {
+      "id": "ICT250",
+      "resumo_consolidado": {
+        "message": "Não tem. Pedir ao RC"
+      },
+      "resumo_detalhado": {
+        "message": "Não tem. Pedir ao RC"
+      },
+      "fechamento": {
+        "message": "Essa função permite organizar melhor o fluxo de vendas de um período. É possível fazer mais de um fechamento por dia caso seu estabelecimento funcione em dois turnos, por exemplo. A Stone não exige que o lojista faça o fechamento para receber seus pagamentos. Essa função é opcional.\nAo digitar o número 5, você vai ver duas opções:\nA opção 1 realiza o fechamento e permite a impressão do comprovante.A opção 2 imprime um fechamento que já foi efetuado anteriormente nessa mesma maquininha."
+      }
     }
   ]
 }
