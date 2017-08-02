@@ -28,6 +28,9 @@
       },
       "atualizar_terminal": {
         "message": "Basta clicar em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
+      },
+      "reset_senha_administrativa": {
+        "message": "Para restaurar a senha da sua maquininha:\n1. Clique em \"Função\" na tela da maquininha para acessar a busca rápida pelas funções dela.\n2. Digite o número 26 e aperte o botão verde \"confirma\". \n3. Ligue para nosso time de Relacionamento com o Cliente no 3004-9680.\n4. Fale os 6 dígitos que apareceram na tela da sua maquininha para nosso atendente.\n5. Nosso atendente passará um número de acesso para você criar sua nova senha."
       }
     },
     {
@@ -58,6 +61,9 @@
       },
       "atualizar_terminal": {
         "message": "Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
+      },
+      "reset_senha_administrativa": {
+        "message": "Para restaurar a senha da sua maquininha:\n1. Clique no botão FUNÇÃO para acessar a busca rápida pelas funções da sua maquininha.\n2. Digite o número 26 e aperte o botão verde \"ENTER\". \n3. Ligue para nosso time de Relacionamento com o Cliente no 3004-9680.\n4. Fale os 6 dígitos que apareceram na tela da sua maquininha para nosso atendente.\n5. Nosso atendente passará um número de acesso para você criar sua nova senha."
       }
     },
     {
@@ -88,6 +94,9 @@
       },
       "atualizar_terminal": {
         "message": "Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
+      },
+      "reset_senha_administrativa": {
+        "message": "Para restaurar a senha da sua maquininha:\n1. Clique no botão 2 na tela da maquininha para acessar a busca rápida pelas funções dela.\n2. Digite o número 26 e aperte o botão verde \"confirma\". \n3. Ligue para nosso time de Relacionamento com o Cliente no 3004-9680.\n4. Fale os 6 dígitos que apareceram na tela da sua maquininha para nosso atendente.\n5. Nosso atendente passará um número de acesso para você criar sua nova senha."
       }
     },
     {
@@ -118,6 +127,9 @@
       },
       "atualizar_terminal": {
         "message": "Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
+      },
+      "reset_senha_administrativa": {
+        "message": "Para restaurar a senha da sua maquininha:\n1. Clique no botão F2 para acessar a busca rápida pelas funções da sua maquininha.\n2. Digite o número 26 e aperte o botão verde \"confirma\". \n3. Ligue para nosso time de Relacionamento com o Cliente no 3004-9680.\n4. Fale os 6 dígitos que apareceram na tela da sua maquininha para nosso atendente.\n5. Nosso atendente passará um número de acesso para você criar sua nova senha."
       }
     },
     {
@@ -147,7 +159,10 @@
         "message": "Não tem. Pedir ao RC"
       },
       "atualizar_terminal": {
-         "message": "Não tem. Pedir ao RC"
+        "message": "Não tem. Pedir ao RC"
+      },
+      "reset_senha_administrativa": {
+        "message": "Não tem. Pedir ao RC"
       }
     },
     {
@@ -177,7 +192,10 @@
         "message": "Não tem. Pedir ao RC"
       },
       "atualizar_terminal": {
-         "message": "Não tem. Pedir ao RC"
+        "message": "Não tem. Pedir ao RC"
+      },
+      "reset_senha_administrativa": {
+        "message": "Não tem. Pedir ao RC"
       }
     },
     {
@@ -207,7 +225,10 @@
         "message": "Não tem. Pedir ao RC"
       },
       "atualizar_terminal": {
-         "message": "Não tem. Pedir ao RC"
+        "message": "Não tem. Pedir ao RC"
+      },
+      "reset_senha_administrativa": {
+        "message": "Não tem. Pedir ao RC"
       }
     }
   ]
