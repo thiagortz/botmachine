@@ -25,6 +25,9 @@
       },
       "alterar_senha_administrativa": {
         "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde para confirmar."
+      },
+      "atualizar_terminal": {
+        "message": "Basta clicar em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
       }
     },
     {
@@ -52,6 +55,9 @@
       },
       "alterar_senha_administrativa": {
         "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar no botão FUNÇÃO para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde enter/confirma.  "
+      },
+      "atualizar_terminal": {
+        "message": "Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
       }
     },
     {
@@ -79,6 +85,9 @@
       },
       "alterar_senha_administrativa": {
         "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde para confirmar. "
+      },
+      "atualizar_terminal": {
+        "message": "Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
       }
     },
     {
@@ -106,6 +115,9 @@
       },
       "alterar_senha_administrativa": {
         "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar no botão F2 para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde enter/confirma. "
+      },
+      "atualizar_terminal": {
+        "message": "Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 23 e apertar o botão verde."
       }
     },
     {
@@ -133,6 +145,9 @@
       },
       "alterar_senha_administrativa": {
         "message": "Não tem. Pedir ao RC"
+      },
+      "atualizar_terminal": {
+         "message": "Não tem. Pedir ao RC"
       }
     },
     {
@@ -160,6 +175,9 @@
       },
       "alterar_senha_administrativa": {
         "message": "Não tem. Pedir ao RC"
+      },
+      "atualizar_terminal": {
+         "message": "Não tem. Pedir ao RC"
       }
     },
     {
@@ -187,6 +205,9 @@
       },
       "alterar_senha_administrativa": {
         "message": "Não tem. Pedir ao RC"
+      },
+      "atualizar_terminal": {
+         "message": "Não tem. Pedir ao RC"
       }
     }
   ]
