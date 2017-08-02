@@ -22,6 +22,9 @@
       },
       "alterar_som_teclas": {
         "message": "1. Clique em \"Função\" na tela da maquininha para acessar a busca rápida pelas funções dela.\n2. Digite o número 22 e aperte o botão verde \"confirma\". \nPronto! Seu som está ativado ou foi desativado."
+      },
+      "alterar_senha_administrativa": {
+        "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde para confirmar."
       }
     },
     {
@@ -46,6 +49,9 @@
       },
       "alterar_som_teclas": {
         "message": "1. Clique no botão FUNÇÃO para acessar a busca rápida pelas funções da sua maquininha.\n2. Digite o número 22 e aperte o botão verde \"enter\". \nPronto! Seu som será ativado ou desativado."
+      },
+      "alterar_senha_administrativa": {
+        "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar no botão FUNÇÃO para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde enter/confirma.  "
       }
     },
     {
@@ -70,6 +76,9 @@
       },
       "alterar_som_teclas": {
         "message": "1. Clique no botão 2 na tela da maquininha para acessar a busca rápida pelas funções dela.\n2. Digite o número 22 e aperte o botão verde \"confirma\". \nPronto! Seu som está ativado ou foi desativado."
+      },
+      "alterar_senha_administrativa": {
+        "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde para confirmar. "
       }
     },
     {
@@ -94,6 +103,9 @@
       },
       "alterar_som_teclas": {
         "message": "1. Clique no botão F2 para acessar a busca rápida pelas funções da sua maquininha.\n2. Digite o número 22 e aperte o botão verde \"confirma\". \nPronto! Seu som está ativado ou foi desativado."
+      },
+      "alterar_senha_administrativa": {
+        "message": "O administrador pode mudar a senha padrão para uma própria. A mesma deve ter 4 dígitos. \nAtenção! A senha padrão vem escrita no e-mail de boas-vindas enviado pela Stone. Basta clicar no botão F2 para acessar a busca rápida pelas funções da sua máquina. Aí é só inserir o número 20 e apertar o botão verde enter/confirma. "
       }
     },
     {
@@ -117,6 +129,9 @@
         "message": "Não tem. Pedir ao RC"
       },
       "alterar_som_teclas": {
+        "message": "Não tem. Pedir ao RC"
+      },
+      "alterar_senha_administrativa": {
         "message": "Não tem. Pedir ao RC"
       }
     },
@@ -142,6 +157,9 @@
       },
       "alterar_som_teclas": {
         "message": "Não tem. Pedir ao RC"
+      },
+      "alterar_senha_administrativa": {
+        "message": "Não tem. Pedir ao RC"
       }
     },
     {
@@ -165,6 +183,9 @@
         "message": "1. Clique em \"Função\" na tela da maquininha para acessar a busca rápida pelas funções dela.\n 2. Digite o número 24 e aperte o botão verde \"confirma\". \n Pronto! Aparecerão todas as informações pra você."
       },
       "alterar_som_teclas": {
+        "message": "Não tem. Pedir ao RC"
+      },
+      "alterar_senha_administrativa": {
         "message": "Não tem. Pedir ao RC"
       }
     }
