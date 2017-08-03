@@ -1,0 +1,10 @@
+{
+  "maquinas": [
+    {
+      "id": "Android",
+    },
+    {
+      "id": "ios",
+    }
+  ]
+}
