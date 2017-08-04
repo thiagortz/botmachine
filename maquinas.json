@@ -35,7 +35,7 @@
       "funcoes_disponiveis": {
         "message": "Para a máquina VX685 Basta clicar em \"Função\" na tela da máquina para acessar a busca rápida pelas funções da sua máquina ou apertar a tecla 2 para acessar a lista de funções."
       },
-      "trocar_bobina":{
+      "trocar_bobina": {
         "message": "Para o modelo VX685 da uma olhada neste vídeo https://www.youtube.com/watch?v=RKM2NtWjHHs"
       }
     },
@@ -74,7 +74,7 @@
       "funcoes_disponiveis": {
         "message": "Para a máquina S80 As funções são acessíveis através dos botões \"MENU\", \"FUNC\" e \"ALPHA\""
       },
-      "trocar_bobina":{
+      "trocar_bobina": {
         "message": "Para o modelo S80 da uma olhada neste vídeo https://www.youtube.com/watch?v=VqKr2hXSscQ"
       }
     },
@@ -113,7 +113,7 @@
       "funcoes_disponiveis": {
         "message": "Para a máquina VX520 Basta clicar no botão 2 na tela da máquina para acessar a busca rápida pelas funções da sua máquina ou apertar a tecla 2 para acessar a lista de funções."
       },
-      "trocar_bobina":{
+      "trocar_bobina": {
         "message": "Para o modelo S80 da uma olhada neste vídeo https://www.youtube.com/watch?list=PLS3g8bUce1rYeaTOcsua_5A6_XAhTIAaz&v=nnfB0XJ6SmU"
       }
     },
@@ -152,8 +152,8 @@
       "funcoes_disponiveis": {
         "message": "Para a máquina D210 O menu é acessível através das teclas F1 e O (Entra). A tecla F1 navega pra cima e a F2 pra baixo. A lista de funções está acessível na tecla 2 da tela principal. Já para uma busca rápida para determinada função da sua máquina, basta clicar no botão F2 e inserir o número da função desejada. "
       },
-      "trocar_bobina":{
-        "message": "Para o modelo S80 da uma olhada neste vídeo https://www.youtube.com/watch?v=UtP3MryD6vI"
+      "trocar_bobina": {
+        "message": "Para o modelo D210 da uma olhada neste vídeo https://www.youtube.com/watch?v=UtP3MryD6vI"
       }
     },
     {
@@ -191,7 +191,7 @@
       "funcoes_disponiveis": {
         "message": "Para a máquina D210N Não tem. Pedir ao RC"
       },
-      "trocar_bobina":{
+      "trocar_bobina": {
         "message": "Para o modelo D210N parece complicado, mas é bem fácil! basta puxar a tampinha para cima, encaixar a bobina - deixando um pouquinho de papel para fora - e fechar a tampa. Veja neste vídeo https://www.youtube.com/watch?v=PVEqeGuKDcg"
       }
     },
@@ -230,7 +230,7 @@
       "funcoes_disponiveis": {
         "message": "Para a máquina ICT250 Não tem. Pedir ao RC"
       },
-      "trocar_bobina":{
+      "trocar_bobina": {
         "message": "No modelo ICT250 vou ficar não vou conseguir te responder, o João não me ensinou ainda. =("
       }
     },
@@ -269,7 +269,7 @@
       "funcoes_disponiveis": {
         "message": "Para a máquina IWL250 Não tem. Pedir ao RC"
       },
-      "trocar_bobina":{
+      "trocar_bobina": {
         "message": "No modelo ICT250 vou ficar não vou conseguir te responder, o João não me ensinou ainda. =("
       }
     }
