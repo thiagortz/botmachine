@@ -1,12 +1,16 @@
 {
-  "sistemas_operacionais": [
+  "maquinas": [
     {
       "id": "Android",
-      "baixar_aplicativo": "Ver o link pra baixar Android"
+      "baixar_aplicativo": {
+        "message": "Ver link para baixar Android"
+      }
     },
     {
       "id": "ios",
-      "baixar_aplicativo": "Ver o link pra baixar ios"
+      "baixar_aplicativo": {
+        "message": "Ver link para baixar Android"
+      }
     }
   ]
 }
