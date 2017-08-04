@@ -2,9 +2,11 @@
   "maquinas": [
     {
       "id": "Android",
+      "baixar_aplicativo": "Ver o link pra baixar Android"
     },
     {
       "id": "ios",
+      "baixar_aplicativo": "Ver o link pra baixar ios"
     }
   ]
 }
