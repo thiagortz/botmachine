@@ -1,5 +1,5 @@
 {
-  "maquinas": [
+  "sistemas_operacionais": [
     {
       "id": "Android",
       "baixar_aplicativo": {
