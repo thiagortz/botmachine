@@ -2,44 +2,44 @@
   "bandeiras": [
     {
       "id": "Hipercard",
-      "bandeira_como_habilitar": {
+      "habilitar": {
         "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
       }
     },
     {
       "id": "American Express",
-      "bandeira_como_habilitar": {
+      "habilitar": {
         "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       }
     },
     {
       "id": "Elo",
-      "bandeira_como_habilitar": {
+      "habilitar": {
         "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002334086"
       }
     },
     {
       "id": "Alelo",
-      "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002730386 \n Vale lembrar que as as bandeiras Alelo, Sodexo, Ticket e VR estão disponíveis somente aos estabelecimentos que cumprem as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      "habilitar": {
+        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002730386"
       }
     },
     {
       "id": "Sodexo",
-      "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003338563 \n Vale lembrar que as as bandeiras Alelo, Sodexo, Ticket e VR estão disponíveis somente aos estabelecimentos que cumprem as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      "habilitar": {
+        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003338563 "
       }
     },
     {
       "id": "Ticket",
-      "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003356966 \n Vale lembrar que as as bandeiras Alelo, Sodexo, Ticket e VR estão disponíveis somente aos estabelecimentos que cumprem as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      "habilitar": {
+        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003356966"
       }
     },
     {
       "id": "VR Benefícios",
-      "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003357286 \n Vale lembrar que as as bandeiras Alelo, Sodexo, Ticket e VR estão disponíveis somente aos estabelecimentos que cumprem as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      "habilitar": {
+        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003357286"
       }
     }
   ]
