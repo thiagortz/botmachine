@@ -53,6 +53,15 @@
       "bandeira_como_recebo":{
         "message": "Quando shalom quiser ! 🕊️"
       }
+    },
+    {
+      "id": "Default",
+      "bandeira_como_habilitar": {
+        "message": ""
+      },
+      "bandeira_como_recebo":{
+        "message": "Você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro. Nem sempre o nome que aparece é exatamente Stone. Isso depende muito do banco do cliente. Por isso, estamos disponibilizando todos os nomes que podem aparecer quando fazemos um pagamento a vocês: SISPAG -STONE, PAGFOR - STONE, PAF A FOR - (241633), PAGAMENTO A FORNECEDOR - (16.501.55/0001-57), LCTO AUT TER - (858978)️"
+      }
     }
   ]
 }
