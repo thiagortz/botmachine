@@ -22,24 +22,36 @@
       "id": "Alelo",
       "bandeira_como_habilitar": {
         "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002730386"
+      },
+      "bandeira_como_recebo":{
+        "message": "Quando shalom quiser ! 🕊️"
       }
     },
     {
       "id": "Sodexo",
       "bandeira_como_habilitar": {
         "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003338563"
+      },
+      "bandeira_como_recebo":{
+        "message": "Quando shalom quiser ! 🕊️"
       }
     },
     {
       "id": "Ticket",
       "bandeira_como_habilitar": {
         "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003356966"
+      },
+      "bandeira_como_recebo":{
+        "message": "Quando shalom quiser ! 🕊️"
       }
     },
     {
       "id": "VR Benefícios",
       "bandeira_como_habilitar": {
         "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003357286"
+      },
+      "bandeira_como_recebo":{
+        "message": "Quando shalom quiser ! 🕊️"
       }
     }
   ]
