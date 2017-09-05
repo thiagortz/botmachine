@@ -1,21 +1,33 @@
 {
   "bandeiras": [
-    {
-      "id": "Hipercard",
+     {
+      "id": "Visa",
       "bandeira_como_habilitar": {
-        "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
+        "message": "Já vem habilitada de default."
+      }
+    },
+    {
+      "id": "MasterCard",
+      "bandeira_como_habilitar": {
+        "message": "Já vem habilitada de default."
       }
     },
     {
       "id": "American Express",
       "bandeira_como_habilitar": {
         "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+      },
+      "bandeira_como_recebo":{
+        "message": "verificar se é van shalom  ! 🕊️"
       }
     },
     {
       "id": "Elo",
       "bandeira_como_habilitar": {
         "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002334086"
+      },
+      "bandeira_como_recebo":{
+        "message": "verificar se é van shalom  ! 🕊️"
       }
     },
     {
