@@ -3,13 +3,19 @@
      {
       "id": "Visa",
       "bandeira_como_habilitar": {
-        "message": "Já vem habilitada de default."
+        "message": "Já vem habilitada de default"
       }
     },
     {
       "id": "MasterCard",
       "bandeira_como_habilitar": {
-        "message": "Já vem habilitada de default."
+        "message": "Já vem habilitada de default"
+      }
+    },
+    {
+      "id": "Hipercard",
+      "bandeira_como_habilitar": {
+        "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
       }
     },
     {
