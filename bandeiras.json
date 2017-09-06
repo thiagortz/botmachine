@@ -4,18 +4,27 @@
       "id": "Visa",
       "bandeira_como_habilitar": {
         "message": "Já vem habilitada de default"
+      },
+      "bandeira_como_recebo":{
+        "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       }
     },
     {
       "id": "MasterCard",
       "bandeira_como_habilitar": {
         "message": "Já vem habilitada de default"
+      },
+      "bandeira_como_recebo":{
+        "message": "Para a bandeira MasterCard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       }
     },
     {
       "id": "Hipercard",
       "bandeira_como_habilitar": {
         "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
+      },
+      "bandeira_como_recebo":{
+        "message": "Para a bandeira Hipercard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       }
     },
     {
@@ -24,7 +33,7 @@
         "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "bandeira_como_recebo":{
-        "message": "verificar se é van shalom  ! 🕊️"
+        "message": "verificar se é Van shalom  ! 🕊️"
       }
     },
     {
@@ -42,7 +51,7 @@
         "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002730386"
       },
       "bandeira_como_recebo":{
-        "message": "Quando shalom quiser ! 🕊️"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
       }
     },
     {
@@ -51,7 +60,7 @@
         "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003338563"
       },
       "bandeira_como_recebo":{
-        "message": "Tudo é no tempo de shalom ! 🕊️"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/️"
       }
     },
     {
@@ -60,7 +69,7 @@
         "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003356966"
       },
       "bandeira_como_recebo":{
-        "message": "Quando shalom quiser ! 🕊️"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/️"
       }
     },
     {
@@ -69,17 +78,9 @@
         "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003357286"
       },
       "bandeira_como_recebo":{
-        "message": "Tudo é no tempo de shalom ! 🕊️"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr/️"
       }
-    },
-    {
-      "id": "Default",
-      "bandeira_como_habilitar": {
-        "message": ""
-      },
-      "bandeira_como_recebo":{
-        "message": "Para as demais bandeiras você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro. Nem sempre o nome que aparece é exatamente Stone. Isso depende muito do banco do cliente. Por isso, estamos disponibilizando todos os nomes que podem aparecer quando fazemos um pagamento a vocês: SISPAG -STONE, PAGFOR - STONE, PAF A FOR - (241633), PAGAMENTO A FORNECEDOR - (16.501.55/0001-57), LCTO AUT TER - (858978)️"
-      }
+      
     }
   ]
 }
