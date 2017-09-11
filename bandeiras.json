@@ -3,7 +3,7 @@
      {
       "id": "Visa",
       "bandeira_como_habilitar": {
-        "message": "Já vem habilitada de default"
+        "message": "Já vem habilitada em sua máquina"
       },
       "bandeira_como_recebo":{
         "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
@@ -12,7 +12,7 @@
     {
       "id": "MasterCard",
       "bandeira_como_habilitar": {
-        "message": "Já vem habilitada de default"
+        "message": "Já vem habilitada em sua máquina"
       },
       "bandeira_como_recebo":{
         "message": "Para a bandeira MasterCard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
