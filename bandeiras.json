@@ -81,6 +81,16 @@
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr/️"
       }
       
+    },
+    {
+      "id": "Diners",
+      "bandeira_como_habilitar": {
+        "message": "Hoje ainda não aceitamos Diners :("
+      },
+      "bandeira_como_recebo":{
+        "message": "Hoje ainda não aceitamos Diners :("
+      }
+      
     }
   ]
 }
