@@ -7,6 +7,9 @@
       },
       "bandeira_como_recebo":{
         "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+      },
+      "cancelar_venda_app":{
+        "message":"Basta clicar no menu 'Vendas', ao carregar a tela, no item 'Histórico de Vendas' clicar na venda desejada. Depois é só clicar no botão vermelho 'CANCELAR TRANSAÇÃO'."
       }
     },
     {
@@ -16,6 +19,9 @@
       },
       "bandeira_como_recebo":{
         "message": "Para a bandeira MasterCard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+      },
+      "cancelar_venda_app":{
+        "message":"Basta clicar no menu 'Vendas', ao carregar a tela, no item 'Histórico de Vendas' clicar na venda desejada. Depois é só clicar no botão vermelho 'CANCELAR TRANSAÇÃO'."
       }
     },
     {
@@ -25,6 +31,9 @@
       },
       "bandeira_como_recebo":{
         "message": "Para a bandeira Hipercard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+      },
+      "cancelar_venda_app":{
+        "message":"Basta clicar no menu 'Vendas', ao carregar a tela, no item 'Histórico de Vendas' clicar na venda desejada. Depois é só clicar no botão vermelho 'CANCELAR TRANSAÇÃO'."
       }
     },
     {
@@ -33,7 +42,10 @@
         "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "bandeira_como_recebo":{
-        "message": "verificar se é Van shalom  ! 🕊️"
+       "message": "Hoje ainda não aceitamos Diners :("
+      },
+      "cancelar_venda_app":{
+       "message": "Hoje ainda não aceitamos Diners :("
       }
     },
     {
@@ -42,7 +54,10 @@
         "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000yDm0AAE/Como-habilitar-a-bandeira-Elo-VAN'>https://stone.force.com/ajuda/s/article/ka041000000yDm0AAE/Como-habilitar-a-bandeira-Elo-VAN</a>"
       },
       "bandeira_como_recebo":{
-        "message": "Tudo é no tempo de shalom ! 🕊️"
+         "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
+      },
+      "cancelar_venda_app":{
+        "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
       }
     },
     {
@@ -52,6 +67,9 @@
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. <a target='_blank' href='http://www.alelo.com.br/'>http://www.alelo.com.br/</a>"
+      },
+      "cancelar_venda_app":{
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Alelo. <a target='_blank' href='http://www.alelo.com.br/'>http://www.alelo.com.br/</a>"
       }
     },
     {
@@ -61,6 +79,9 @@
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. <a target='_blank' href='https://www.sodexobeneficios.com.br/️'>https://www.sodexobeneficios.com.br/️</a>"
+      },
+      "cancelar_venda_app":{
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Sodexo. <a target='_blank' href='https://www.sodexobeneficios.com.br/️'>https://www.sodexobeneficios.com.br/️</a>"
       }
     },
     {
@@ -70,6 +91,9 @@
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. <a target='_blank' href='http://www.ticket.com.br/️'>http://www.ticket.com.br/️</a>"
+      },
+      "cancelar_venda_app":{
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Ticket. <a target='_blank' href='http://www.ticket.com.br/️'>http://www.ticket.com.br/️</a>"
       }
     },
     {
@@ -79,6 +103,9 @@
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. <a target='_blank' href='https://www.vr.com.br/portal/portal-vr/️'>https://www.vr.com.br/portal/portal-vr</a>"
+      },
+      "cancelar_venda_app":{
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. <a target='_blank' href='https://www.vr.com.br/portal/portal-vr/️'>https://www.vr.com.br/portal/portal-vr</a>"
       }
       
     },
@@ -88,6 +115,9 @@
         "message": "Hoje ainda não aceitamos Diners :("
       },
       "bandeira_como_recebo":{
+        "message": "Hoje ainda não aceitamos Diners :("
+      },
+      "cancelar_venda_app":{
         "message": "Hoje ainda não aceitamos Diners :("
       }
       
