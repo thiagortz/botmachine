@@ -39,7 +39,7 @@
     {
       "id": "Elo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002334086"
+        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://portalstone.zendesk.com/hc/pt-br/articles/115002334086'>https://portalstone.zendesk.com/hc/pt-br/articles/115002334086</a>"
       },
       "bandeira_como_recebo":{
         "message": "Tudo é no tempo de shalom ! 🕊️"
@@ -48,34 +48,34 @@
     {
       "id": "Alelo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115002730386"
+        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://portalstone.zendesk.com/hc/pt-br/articles/115002730386'>https://portalstone.zendesk.com/hc/pt-br/articles/115002730386</a>"
       },
       "bandeira_como_recebo":{
-        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. <a target='_blank' href='http://www.alelo.com.br/'>http://www.alelo.com.br/</a>"
       }
     },
     {
       "id": "Sodexo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003338563"
+        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://portalstone.zendesk.com/hc/pt-br/articles/115003338563'>https://portalstone.zendesk.com/hc/pt-br/articles/115003338563</a>"
       },
       "bandeira_como_recebo":{
-        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/️"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. <a target='_blank' href='https://www.sodexobeneficios.com.br/️'>https://www.sodexobeneficios.com.br/️</a>"
       }
     },
     {
       "id": "Ticket",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003356966"
+        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://portalstone.zendesk.com/hc/pt-br/articles/115003356966'>https://portalstone.zendesk.com/hc/pt-br/articles/115003356966</a>"
       },
       "bandeira_como_recebo":{
-        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/️"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. <a target='_blank' href='http://www.ticket.com.br/️'>http://www.ticket.com.br/️</a>"
       }
     },
     {
       "id": "VR Benefícios",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://portalstone.zendesk.com/hc/pt-br/articles/115003357286"
+        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://portalstone.zendesk.com/hc/pt-br/articles/115003357286'>https://portalstone.zendesk.com/hc/pt-br/articles/115003357286/a>"
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. <a target='_blank' href='https://www.vr.com.br/portal/portal-vr/️'>https://www.vr.com.br/portal/portal-vr</a>"
