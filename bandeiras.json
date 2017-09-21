@@ -78,7 +78,7 @@
     {
       "id": "Alelo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDkxAAE/Como-habilitar-a-bandeira-Alelo"
+        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDkxAAE/Como-habilitar-a-bandeira-Alelo. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
