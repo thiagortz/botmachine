@@ -12,7 +12,7 @@
         "message":"Basta clicar no menu 'Vendas', ao carregar a tela, no item 'Histórico de Vendas' clicar na venda desejada. Depois é só clicar no botão vermelho 'CANCELAR TRANSAÇÃO'."
       },
       "cancelar_venda_portal":{
-         "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792'>https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792</a>"
+         "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792"
       }
     },
     {
@@ -27,7 +27,7 @@
         "message":"Basta clicar no menu 'Vendas', ao carregar a tela, no item 'Histórico de Vendas' clicar na venda desejada. Depois é só clicar no botão vermelho 'CANCELAR TRANSAÇÃO'."
       },
       "cancelar_venda_portal":{
-         "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792'>https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792</a>"
+         "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792"
       }
     },
     {
@@ -42,7 +42,7 @@
         "message":"Basta clicar no menu 'Vendas', ao carregar a tela, no item 'Histórico de Vendas' clicar na venda desejada. Depois é só clicar no botão vermelho 'CANCELAR TRANSAÇÃO'."
       },
       "cancelar_venda_portal":{
-         "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792'>https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792</a>"
+         "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000mfy1AAA/Cancelamento-de-venda-no-portal-do-cliente-1493409314792"
       }
     },
     {
@@ -63,7 +63,7 @@
     {
       "id": "Elo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000yDm0AAE/Como-habilitar-a-bandeira-Elo-VAN'>https://stone.force.com/ajuda/s/article/ka041000000yDm0AAE/Como-habilitar-a-bandeira-Elo-VAN</a>"
+        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDm0AAE/Como-habilitar-a-bandeira-Elo-VAN"
       },
       "bandeira_como_recebo":{
          "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
@@ -78,61 +78,61 @@
     {
       "id": "Alelo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000yDkxAAE/Como-habilitar-a-bandeira-Alelo'>https://stone.force.com/ajuda/s/article/ka041000000yDkxAAE/Como-habilitar-a-bandeira-Alelo</a>"
+        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDkxAAE/Como-habilitar-a-bandeira-Alelo"
       },
       "bandeira_como_recebo":{
-        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. <a target='_blank' href='http://www.alelo.com.br/'>http://www.alelo.com.br/</a>"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
       },
       "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Alelo. <a target='_blank' href='http://www.alelo.com.br/'>http://www.alelo.com.br/</a>"
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Alelo. http://www.alelo.com.br/"
       },
       "cancelar_venda_portal":{
-          "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Alelo. <a target='_blank' href='http://www.alelo.com.br/'>http://www.alelo.com.br/</a>"
+          "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Alelo. http://www.alelo.com.br/"
       }
     },
     {
       "id": "Sodexo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000yDkdAAE/Como-habilitar-a-bandeira-Sodexo'>https://stone.force.com/ajuda/s/article/ka041000000yDkdAAE/Como-habilitar-a-bandeira-Sodexo</a>"
+        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDkdAAE/Como-habilitar-a-bandeira-Sodexo"
       },
       "bandeira_como_recebo":{
-        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. <a target='_blank' href='https://www.sodexobeneficios.com.br/️'>https://www.sodexobeneficios.com.br/️</a>"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
       },
       "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Sodexo. <a target='_blank' href='https://www.sodexobeneficios.com.br/️'>https://www.sodexobeneficios.com.br/️</a>"
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
       },
       "cancelar_venda_portal":{
-          "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Sodexo. <a target='_blank' href='https://www.sodexobeneficios.com.br/️'>https://www.sodexobeneficios.com.br/️</a>"
+          "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
       }
     },
     {
       "id": "Ticket",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000yDknAAE/Como-habilitar-a-bandeira-Ticket'>https://stone.force.com/ajuda/s/article/ka041000000yDknAAE/Como-habilitar-a-bandeira-Ticket</a>"
+        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDknAAE/Como-habilitar-a-bandeira-Ticket"
       },
       "bandeira_como_recebo":{
-        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. <a target='_blank' href='http://www.ticket.com.br/️'>http://www.ticket.com.br/️</a>"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/"
       },
       "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Ticket. <a target='_blank' href='http://www.ticket.com.br/️'>http://www.ticket.com.br/️</a>"
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Ticket. http://www.ticket.com.br/"
       },
       "cancelar_venda_portal":{
-           "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Ticket. <a target='_blank' href='http://www.ticket.com.br/️'>http://www.ticket.com.br/️</a>"
+           "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Ticket. http://www.ticket.com.br/"
       }
     },
     {
       "id": "VR Benefícios",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: <a target='_blank' href='https://stone.force.com/ajuda/s/article/ka041000000yDiwAAE/Como-habilitar-a-bandeira-VR'>https://stone.force.com/ajuda/s/article/ka041000000yDiwAAE/Como-habilitar-a-bandeira-VR/a>"
+        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDiwAAE/Como-habilitar-a-bandeira-VR"
       },
       "bandeira_como_recebo":{
-        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. <a target='_blank' href='https://www.vr.com.br/portal/portal-vr/️'>https://www.vr.com.br/portal/portal-vr</a>"
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       },
       "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. <a target='_blank' href='https://www.vr.com.br/portal/portal-vr/️'>https://www.vr.com.br/portal/portal-vr</a>"
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       },
       "cancelar_venda_portal":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. <a target='_blank' href='https://www.vr.com.br/portal/portal-vr/️'>https://www.vr.com.br/portal/portal-vr</a>"
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       }
       
     },
@@ -148,7 +148,7 @@
         "message": "Hoje ainda não aceitamos Diners :("
       },
 	  "cancelar_venda_portal":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. <a target='_blank' href='https://www.vr.com.br/portal/portal-vr/️'>https://www.vr.com.br/portal/portal-vr</a>"
+        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       }
       
     }
