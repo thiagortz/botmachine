@@ -93,7 +93,7 @@
     {
       "id": "Sodexo",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDkdAAE/Como-habilitar-a-bandeira-Sodexo"
+        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDkdAAE/Como-habilitar-a-bandeira-Sodexo. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
@@ -108,7 +108,7 @@
     {
       "id": "Ticket",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDknAAE/Como-habilitar-a-bandeira-Ticket"
+        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDknAAE/Como-habilitar-a-bandeira-Ticket. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/"
@@ -123,7 +123,7 @@
     {
       "id": "VR Benefícios",
       "bandeira_como_habilitar": {
-        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDiwAAE/Como-habilitar-a-bandeira-VR"
+        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/ka041000000yDiwAAE/Como-habilitar-a-bandeira-VR. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
