@@ -46,6 +46,21 @@
       }
     },
     {
+      "id": "Hiper",
+      "bandeira_como_habilitar": {
+        "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
+      },
+      "bandeira_como_recebo":{
+        "message": "Para a bandeira Hipercard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+      },
+      "cancelar_venda_app":{
+        "message":"Basta clicar no menu 'Vendas', ao carregar a tela, no item 'Histórico de Vendas' clicar na venda desejada. Depois é só clicar no botão vermelho 'CANCELAR TRANSAÇÃO'."
+      },
+      "cancelar_venda_portal":{
+         "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/vFFYxZ"
+      }
+    },
+    {
       "id": "American Express",
       "bandeira_como_habilitar": {
         "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
