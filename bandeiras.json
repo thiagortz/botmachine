@@ -98,11 +98,8 @@
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
       },
-      "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Alelo. http://www.alelo.com.br/"
-      },
-      "cancelar_venda_portal":{
-          "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Alelo. http://www.alelo.com.br/"
+      "cancelar_venda":{
+         "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/, porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
     },
     {
@@ -113,11 +110,8 @@
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
       },
-      "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
-      },
-      "cancelar_venda_portal":{
-          "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
+      "cancelar_venda":{
+         "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
     },
     {
@@ -128,11 +122,8 @@
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/"
       },
-      "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Ticket. http://www.ticket.com.br/"
-      },
-      "cancelar_venda_portal":{
-           "message":"Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da Ticket. http://www.ticket.com.br/"
+      "cancelar_venda":{
+         "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
     },
     {
@@ -143,11 +134,8 @@
       "bandeira_como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       },
-      "cancelar_venda_app":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
-      },
-      "cancelar_venda_portal":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
+      "cancelar_venda":{
+         "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
       
     },
@@ -159,11 +147,14 @@
       "bandeira_como_recebo":{
         "message": "Hoje ainda não aceitamos Diners :("
       },
+      "cancelar_venda":{
+         "message": "Hoje ainda não aceitamos Diners :("
+      },
       "cancelar_venda_app":{
         "message": "Hoje ainda não aceitamos Diners :("
       },
-	  "cancelar_venda_portal":{
-        "message":"Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você pode cancelar suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
+	    "cancelar_venda_portal":{
+         "message": "Hoje ainda não aceitamos Diners :("
       }
       
     }
