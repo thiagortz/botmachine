@@ -16,6 +16,9 @@
       },
       "cancelar_venda_portal":{
          "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
     },
     {
@@ -34,6 +37,9 @@
       },
       "cancelar_venda_portal":{
          "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/2qDbq3"
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
     },
     {
@@ -52,6 +58,9 @@
       },
       "cancelar_venda_portal":{
          "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/vFFYxZ"
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
     },
     {
@@ -70,6 +79,9 @@
       },
       "cancelar_venda_portal":{
          "message":"Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/vFFYxZ"
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
     },
     {
@@ -88,6 +100,9 @@
       },
       "cancelar_venda_portal":{
          "message":"Hoje ainda não American Express :("
+      },
+      "vizualizar_transacoes":{
+        "message":"Hoje ainda não American Express :("
       }
     },
     {
@@ -106,6 +121,9 @@
       },
       "cancelar_venda_portal":{
           "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
+      },
+      "vizualizar_transacoes":{
+        "message":"vou verificar se o seu cadastro é tipo VAN na bandeira $bandeira. mentira não consigo ainda rs"
       }
     },
     {
@@ -118,6 +136,9 @@
       },
       "cancelar_venda":{
          "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/, porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do portal da Alelo ou da Cielo. http://www.alelo.com.br/"
       }
     },
     {
@@ -130,6 +151,9 @@
       },
       "cancelar_venda":{
          "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do portal da Sodexo. https://www.sodexobeneficios.com.br/"
       }
     },
     {
@@ -142,6 +166,9 @@
       },
       "cancelar_venda":{
          "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do portal da Ticket. http://www.ticket.com.br/"
       }
     },
     {
@@ -154,6 +181,9 @@
       },
       "cancelar_venda":{
          "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      },
+      "vizualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do portal da VR Benefícios. https://www.vr.com.br/portal/portal-vr"
       }
       
     },
@@ -173,6 +203,9 @@
       },
 	    "cancelar_venda_portal":{
          "message": "Hoje ainda não aceitamos Diners :("
+      },
+      "vizualizar_transacoes":{
+        "message": "Hoje ainda não aceitamos Diners :("
       }
       
     }
