@@ -1,10 +1,10 @@
 [
      {
       "id": "Visa",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Já vem habilitada em sua máquina"
       },
-      "bandeira_como_recebo":{
+      como_recebo":{
         "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
       "cancelar_venda":{
@@ -22,10 +22,10 @@
     },
     {
       "id": "MasterCard",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Já vem habilitada em sua máquina"
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Para a bandeira MasterCard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
       "cancelar_venda":{
@@ -43,10 +43,10 @@
     },
     {
       "id": "Hipercard",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Para a bandeira Hipercard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
       "cancelar_venda":{
@@ -64,10 +64,10 @@
     },
     {
       "id": "Hiper",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Para a bandeira Hipercard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
       "cancelar_venda":{
@@ -85,10 +85,10 @@
     },
     {
       "id": "American Express",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
        "message": "Hoje ainda não American Express :("
       },
       "cancelar_venda":{
@@ -106,10 +106,10 @@
     },
     {
       "id": "Elo",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/vd2Mgd"
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
          "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
       },
       "cancelar_venda":{
@@ -127,10 +127,10 @@
     },
     {
       "id": "Alelo",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/nSJeKV. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
       },
       "cancelar_venda":{
@@ -142,10 +142,10 @@
     },
     {
       "id": "Sodexo",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/UVEH92. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
       },
       "cancelar_venda":{
@@ -157,10 +157,10 @@
     },
     {
       "id": "Ticket",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/DP3GUw. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/"
       },
       "cancelar_venda":{
@@ -172,7 +172,7 @@
     },
     {
       "id": "VR Benefícios",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/gxRKy1. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
       "bandeira_como_recebo":{
@@ -188,10 +188,10 @@
     },
     {
       "id": "Diners",
-      "bandeira_como_habilitar": {
+      "como_habilitar": {
         "message": "Hoje ainda não aceitamos Diners :("
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Hoje ainda não aceitamos Diners :("
       },
       "cancelar_venda":{
