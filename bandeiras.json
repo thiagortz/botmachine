@@ -90,19 +90,19 @@
         "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "bandeira_como_recebo":{
-       "message": "Hoje ainda não American Express :("
+       "message": "Hoje ainda não aceitamos American Express :("
       },
       "cancelar_venda":{
          "message": "Você pode efetuar o cancelamento de uma transação pelo portal do cliente, aplicativo do portal ou pela própria maquininha, caso tenha o cartão do cliente em mãos. Por qual meio deseja cancelar ?"
       },
       "cancelar_venda_app":{
-       "message": "Hoje ainda não American Express :("
+       "message": "Hoje ainda não aceitamos American Express :("
       },
       "cancelar_venda_portal":{
-         "message":"Hoje ainda não American Express :("
+         "message":"Hoje ainda não aceitamos American Express :("
       },
       "visualizar_transacoes":{
-        "message":"Hoje ainda não American Express :("
+        "message":"Hoje ainda não aceitamos American Express :("
       }
     },
     {
