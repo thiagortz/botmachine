@@ -175,7 +175,7 @@
       "como_habilitar": {
         "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/gxRKy1. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "bandeira_como_recebo":{
+      "como_recebo":{
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       },
       "cancelar_venda":{
