@@ -44,10 +44,10 @@
     {
       "id": "Hipercard",
       "como_habilitar": {
-        "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
+        "message": "está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "como_recebo":{
-        "message": "Para a bandeira Hipercard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+        "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
       "cancelar_venda":{
          "message": "Você pode efetuar o cancelamento de uma transação pelo portal do cliente, aplicativo do portal ou pela própria maquininha, caso tenha o cartão do cliente em mãos. Por qual meio deseja cancelar ?"
@@ -65,10 +65,10 @@
     {
       "id": "Hiper",
       "como_habilitar": {
-        "message": "A bandeira Hiper e Hipercard estão em fase de testes e deverão ser disponibilizadas ao longo desse semestre."
+        "message": "está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "como_recebo":{
-        "message": "Para a bandeira Hipercard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+        "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
       "cancelar_venda":{
          "message": "Você pode efetuar o cancelamento de uma transação pelo portal do cliente, aplicativo do portal ou pela própria maquininha, caso tenha o cartão do cliente em mãos. Por qual meio deseja cancelar ?"
@@ -86,7 +86,7 @@
     {
       "id": "American Express",
       "como_habilitar": {
-        "message": "A bandeira American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+        "message": "está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "como_recebo":{
        "message": "Hoje ainda não American Express :("
