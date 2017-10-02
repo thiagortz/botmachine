@@ -207,5 +207,27 @@
         "message": "Hoje ainda não aceitamos Diners :("
       }
       
+    },
+    {
+      "id": "Default",
+      "bandeira_como_habilitar": {
+        "message": ""
+      },
+      "bandeira_como_recebo":{
+        "message": ""
+      },
+      "cancelar_venda":{
+         "message": ""
+      },
+      "cancelar_venda_app":{
+        "message":""
+      },
+      "cancelar_venda_portal":{
+         "message":""
+      },
+      "visualizar_transacoes":{
+        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
     }
+   
   ]
