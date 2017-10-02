@@ -134,7 +134,7 @@
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
       },
       "cancelar_venda":{
-         "message": "Para a bandeira {} você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+         "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       },
       "visualizar_transacoes":{
         "message":"Você consegue visualizar as suas transações através do portal da Alelo ou da Cielo. http://www.alelo.com.br/"
