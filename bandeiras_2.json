@@ -110,10 +110,10 @@
         "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/vd2Mgd"
       },
       "receber_pagamentos":{
-         "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
+         "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
       },
       "cancelar_venda":{
-         "message": "Você pode efetuar o cancelamento de uma transação pelo portal do cliente, aplicativo do portal ou pela própria maquininha, caso tenha o cartão do cliente em mãos. Por qual meio deseja cancelar ?"
+        "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
       },
       "cancelar_venda_app":{
         "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
@@ -122,7 +122,7 @@
           "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
       },
       "visualizar_venda":{
-        "message":"vou verificar se o seu cadastro é tipo VAN na bandeira Elo. mentira não consigo ainda rs"
+         "message":"Ah bandeira Elo é um caso em sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
       }
     },
     {
