@@ -3,7 +3,7 @@
      {
       "id": "Visa",
       "habilitar_bandeira": {
-        "message": "Já vem habilitada em sua máquina"
+        "message": "Visa já vem habilitada em sua máquina"
       },
       "receber_pagamentos":{
         "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
@@ -24,7 +24,7 @@
     {
       "id": "MasterCard",
       "habilitar_bandeira": {
-        "message": "Já vem habilitada em sua máquina"
+        "message": "MasterCard já vem habilitada em sua máquina"
       },
       "receber_pagamentos":{
         "message": "Para a bandeira MasterCard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
@@ -45,7 +45,7 @@
     {
       "id": "Hipercard",
       "habilitar_bandeira": {
-        "message": "está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+        "message": "Hipercard está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "receber_pagamentos":{
         "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
@@ -66,7 +66,7 @@
     {
       "id": "Hiper",
       "habilitar_bandeira": {
-        "message": "está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+        "message": "Hiper está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "receber_pagamentos":{
         "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
@@ -87,7 +87,7 @@
     {
       "id": "American Express",
       "habilitar_bandeira": {
-        "message": "está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+        "message": "American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
       "receber_pagamentos":{
        "message": "Hoje ainda não aceitamos American Express."
@@ -111,19 +111,19 @@
         "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/vd2Mgd"
       },
       "receber_pagamentos":{
-         "message":"A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+         "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
       },
       "cancelar_venda":{
-        "message":"A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+        "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
       },
       "cancelar_venda_app":{
-        "message":"A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
+        "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
       },
       "cancelar_venda_portal":{
-          "message":"A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
+          "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. Segura ae !"
       },
       "visualizar_venda":{
-         "message":"A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+         "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
       }
     },
     {
@@ -230,4 +230,5 @@
         "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
     }
+   
   ]
