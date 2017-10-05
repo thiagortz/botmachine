@@ -171,14 +171,7 @@
       }
       
     },
-    {
-      "id": "Default",
-      "habilitar_bandeira": {
-        "message": ""
-      },
-      "receber_pagamentos":{
-         "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
-      },
+    {"id": "Default","habilitar_bandeira": { "message": "" },"receber_pagamentos":{ "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"},
       "cancelar_venda":{
          "message":"Cancelar venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd. Para saber de alguma bandeira em específico digite o nome dela."
       },
