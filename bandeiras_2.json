@@ -1,181 +1,423 @@
-
-[{   "id": "Visa",
-      "habilitar_bandeira": {
+[{
+    "id": "Visa",
+    "enable_card_brand": {
+      "app": {
         "message": "Visa já vem habilitada em sua máquina"
       },
-      "receber_pagamentos":{
-        "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
-      },
-      "cancelar_venda":{
-         "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      "portal": {
+        "message": "Visa já vem habilitada em sua máquina"
       }
     },
-    {
-      "id": "MasterCard",
-      "habilitar_bandeira": {
+    "how_receive_payments": {
+      "app": {
+        "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro"
+      },
+      "portal": {
+        "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro"
+      }
+    },
+    "cancel_sales": {
+      "app": {
+        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+      },
+      "portal": {
+        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    }
+  },
+  {
+    "id": "MasterCard",
+    "enable_card_brand": {
+      "app": {
         "message": "MasterCard já vem habilitada em sua máquina"
       },
-      "receber_pagamentos":{
+      "portal": {
+        "message": "MasterCard já vem habilitada em sua máquina"
+      }
+    },
+    "how_receive_payments": {
+      "app": {
         "message": "Para a bandeira MasterCard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
-      "cancelar_venda":{
-         "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      "portal": {
+        "message": "Para a bandeira MasterCard você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       }
     },
-    {
-      "id": "Hipercard",
-      "habilitar_bandeira": {
-        "message": "Hipercard está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+    "cancel_sales": {
+      "app": {
+        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
       },
-      "receber_pagamentos":{
+      "portal": {
+        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    }
+  },
+  {
+    "id": "Hipercard",
+    "enable_card_brand": {
+      "app": {
+        "message": "Para solicitar tal habilitação, você pode entrar em contato com a gente através do nosso chat no site, no Portal Stone ou no aplicativo da Stone. Para mais informações consultar o link https://goo.gl/Gc9vJz"
+      },
+      "portal": {
+        "message": "Para solicitar tal habilitação, você pode entrar em contato com a gente através do nosso chat no site, no Portal Stone ou no aplicativo da Stone. Para mais informações consultar o link https://goo.gl/Gc9vJz"
+      }
+    },
+    "how_receive_payments": {
+      "app": {
         "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
-      "cancelar_venda":{
-         "message": "Hoje ainda não sei como cancela."
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      "portal": {
+        "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       }
     },
-    {
-      "id": "Hiper",
-      "habilitar_bandeira": {
+    "cancel_sales": {
+      "app": {
+        "message": "Não sei ainda."
+      },
+      "portal": {
+        "message": "Não sei ainda."
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    }
+  },
+  {
+    "id": "Hiper",
+    "enable_card_brand": {
+      "app": {
         "message": "Hiper está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
-      "receber_pagamentos":{
+      "portal": {
+        "message": "Hiper está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+      }
+    },
+    "how_receive_payments": {
+      "app": {
         "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       },
-      "cancelar_venda":{
-         "message": "Hoje ainda não sei como cancela."
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      "portal": {
+        "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
       }
     },
-    {
-      "id": "American Express",
-      "habilitar_bandeira": {
+    "cancel_sales": {
+      "app": {
+        "message": "Não sei ainda."
+      },
+      "portal": {
+        "message": "Não sei ainda."
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    }
+  },
+  {
+    "id": "American Express",
+    "enable_card_brand": {
+      "app": {
         "message": "American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       },
-      "receber_pagamentos":{
-       "message": "Hoje ainda não aceitamos American Express."
-      },
-      "cancelar_venda":{
-         "message": "Hoje ainda não sei como cancela."
-      },
-      "visualizar_venda":{
-        "message":"Hoje ainda não aceitamos American Express."
+      "portal": {
+        "message": "American Express está em fase de testes e devera ser disponibilizada ao longo desse semestre."
       }
     },
-    {
-      "id": "Elo",
-      "habilitar_bandeira": {
+    "how_receive_payments": {
+      "app": {
+        "message": "Hoje ainda não aceitamos American Express."
+      },
+      "portal": {
+        "message": "Hoje ainda não aceitamos American Express."
+      }
+    },
+    "cancel_sales": {
+      "app": {
+        "message": "Hoje ainda não sei como cancela."
+      },
+      "portal": {
+        "message": "Hoje ainda não sei como cancela."
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Hoje ainda não aceitamos American Express."
+      },
+      "portal": {
+        "message": "Hoje ainda não aceitamos American Express."
+      }
+    }
+  },
+  {
+    "id": "Elo",
+    "enable_card_brand": {
+      "app": {
         "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/vd2Mgd"
       },
-      "receber_pagamentos":{
-         "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
-      },
-      "cancelar_venda":{
-        "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
-      },
-      "visualizar_venda":{
-         "message":"Ah bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      "portal": {
+        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/vd2Mgd"
       }
     },
-    {
-      "id": "Alelo",
-      "habilitar_bandeira": {
+    "how_receive_payments": {
+      "app": {
+        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      },
+      "portal": {
+        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      }
+    },
+    "cancel_sales": {
+      "app": {
+        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      },
+      "portal": {
+        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      },
+      "portal": {
+        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      }
+    }
+  },
+  {
+    "id": "Alelo",
+    "enable_card_brand": {
+      "app": {
         "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/nSJeKV. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "receber_pagamentos":{
+      "portal": {
+        "message": "Para habilitar a bandeira Alelo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/nSJeKV. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      }
+    },
+    "how_receive_payments": {
+      "app": {
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
       },
-      "cancelar_venda":{
-         "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do portal da Alelo ou da Cielo. http://www.alelo.com.br/"
+      "portal": {
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Alelo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Alelo. http://www.alelo.com.br/"
       }
     },
-    {
-      "id": "Sodexo",
-      "habilitar_bandeira": {
+    "cancel_sales": {
+      "app": {
+        "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      },
+      "portal": {
+        "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do portal da Alelo ou da Cielo. http://www.alelo.com.br/"
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do portal da Alelo ou da Cielo. http://www.alelo.com.br/"
+      }
+    }
+  },
+  {
+    "id": "Sodexo",
+    "enable_card_brand": {
+      "app": {
         "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/UVEH92. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "receber_pagamentos":{
+      "portal": {
+        "message": "Para habilitar a bandeira Sodexo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/UVEH92. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      }
+    },
+    "how_receive_payments": {
+      "app": {
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
       },
-      "cancelar_venda":{
-         "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do portal da Sodexo. https://www.sodexobeneficios.com.br/"
+      "portal": {
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Sodexo, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Sodexo. https://www.sodexobeneficios.com.br/"
       }
     },
-    {
-      "id": "Ticket",
-      "habilitar_bandeira": {
+    "cancel_sales": {
+      "app": {
+        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      },
+      "portal": {
+        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do portal da Sodexo. https://www.sodexobeneficios.com.br/"
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do portal da Sodexo. https://www.sodexobeneficios.com.br/"
+      }
+    }
+  },
+  {
+    "id": "Ticket",
+    "enable_card_brand": {
+      "app": {
         "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/DP3GUw. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "receber_pagamentos":{
+      "portal": {
+        "message": "Para habilitar a bandeira Ticket em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/DP3GUw. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      }
+    },
+    "how_receive_payments": {
+      "app": {
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/"
       },
-      "cancelar_venda":{
-         "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do portal da Ticket. http://www.ticket.com.br/"
+      "portal": {
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões Ticket, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da Ticket. http://www.ticket.com.br/"
       }
     },
-    {
-      "id": "VR Benefícios",
-      "habilitar_bandeira": {
+    "cancel_sales": {
+      "app": {
+        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      },
+      "portal": {
+        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do portal da Ticket. http://www.ticket.com.br/"
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do portal da Ticket. http://www.ticket.com.br/"
+      }
+    }
+  },
+  {
+    "id": "VR Benefícios",
+    "enable_card_brand": {
+      "app": {
         "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/gxRKy1. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
       },
-      "receber_pagamentos":{
+      "portal": {
+        "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/gxRKy1. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
+      }
+    },
+    "how_receive_payments": {
+      "app": {
         "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       },
-      "cancelar_venda":{
-         "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
-      },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do portal da VR Benefícios. https://www.vr.com.br/portal/portal-vr"
+      "portal": {
+        "message": "Embora a Stone faça a leitura das transações realizadas com os cartões VR, as vendas são capturadas e pagas pela bandeira. Você encontrará suas vendas no portal da VR. https://www.vr.com.br/portal/portal-vr"
       }
-      
     },
-    {
-      "id": "Diners",
-      "habilitar_bandeira": {
-        "message": "Hoje ainda não aceitamos Diners :("
+    "cancel_sales": {
+      "app": {
+        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       },
-      "receber_pagamentos":{
-        "message": "Hoje ainda não aceitamos Diners :("
-      },
-      "cancelar_venda":{
-         "message": "Hoje ainda não aceitamos Diners :("
-      },
-      "cancelar_venda_app":{
-        "message": "Hoje ainda não aceitamos Diners :("
-      },
-	    "cancelar_venda_portal":{
-         "message": "Hoje ainda não aceitamos Diners :("
-      },
-      "visualizar_venda":{
-        "message": "Hoje ainda não aceitamos Diners :("
+      "portal": {
+        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
-      
     },
-    {"id": "Default","habilitar_bandeira": { "message": "" },"receber_pagamentos":{ "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"},
-      "cancelar_venda":{
-         "message":"Cancelar venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd. Para saber de alguma bandeira em específico digite o nome dela."
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do portal da VR Benefícios. https://www.vr.com.br/portal/portal-vr"
       },
-      "visualizar_venda":{
-        "message":"Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do portal da VR Benefícios. https://www.vr.com.br/portal/portal-vr"
       }
-    } ]
+    }
+
+  },
+  {
+    "id": "Diners",
+    "enable_card_brand": {
+      "app": {
+        "message": "Ainda não aceitamos Diners"
+      },
+      "portal": {
+        "message": "Ainda não aceitamos Diners"
+      }
+    },
+    "how_receive_payments": {
+      "app": {
+        "message": "Ainda não aceitamos Diners"
+      },
+      "portal": {
+        "message": "Ainda não aceitamos Diners"
+      }
+    },
+    "cancel_sales": {
+      "app": {
+        "message": "Ainda não aceitamos Diners"
+      },
+      "portal": {
+        "message": "Ainda não aceitamos Diners"
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Ainda não aceitamos Diners"
+      },
+      "portal": {
+        "message": "Ainda não aceitamos Diners"
+      }
+    }
+
+  },
+  {
+    "id": "Default",
+    "enable_card_brand": {
+      "app": {
+        "message": ""
+      },
+      "portal": {
+        "message": ""
+      }
+    },
+    "how_receive_payments": {
+      "app": {
+        "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+      },
+      "portal": {
+        "message": "Para a bandeira Visa você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+      }
+    },
+    "cancel_sales": {
+      "app": {
+        "message": "Cancelar venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd. Para saber de alguma bandeira em específico digite o nome dela."
+      },
+      "portal": {
+        "message": "Cancelar venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd. Para saber de alguma bandeira em específico digite o nome dela."
+      }
+    },
+    "view_sales": {
+      "app": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      },
+      "portal": {
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    }
+  }
+]
