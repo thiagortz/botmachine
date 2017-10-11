@@ -305,7 +305,7 @@
       }
     }
   },
-  "VR Benefícios":{
+  "VR":{
     "enable_card_brand": {
       "app": {
         "message": "Para habilitar a bandeira VR em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/gxRKy1. Vale lembrar que está bandeira é disponivel somente aos estabelecimentos que cumprem as as exigências do Programa de Alimentação do Trabalhador, ou seja, restaurantes, lanchonetes etc."
