@@ -31,6 +31,14 @@
       "portal": {
         "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Visa já vem habilitada em sua máquina"
+      },
+      "portal": {
+        "message": "Visa já vem habilitada em sua máquina"
+      }
     }
   },
 "MasterCard":{
@@ -64,6 +72,14 @@
       },
       "portal": {
         "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Master já vem na sua maquininha!"
+      },
+      "portal": {
+        "message": "Master já vem na sua maquininha!"
       }
     }
   },
@@ -99,6 +115,14 @@
       "portal": {
         "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Vou checar com alguém!"
+      },
+      "portal": {
+        "message": "Vou checar com alguém!"
+      }
     }
   },
 "Hiper": {
@@ -116,7 +140,15 @@
       },
       "portal": {
         "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
+      },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Vou checar com alguem!"
+      },
+      "portal": {
+        "message": "Vou checar com alguem!"
       }
+    }
     },
     "cancel_sales": {
       "app": {
@@ -132,6 +164,14 @@
       },
       "portal": {
         "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Vou checar com alguém!"
+      },
+      "portal": {
+        "message": "Vou checar com alguém!"
       }
     }
   },
@@ -167,6 +207,14 @@
       "portal": {
         "message": "Hoje ainda não aceitamos American Express."
       }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Vou checar com alguem!"
+      },
+      "portal": {
+        "message": "Vou checar com alguem!"
+      }
     }
   },
   "Elo":{
@@ -200,6 +248,14 @@
       },
       "portal": {
         "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+      }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Vou checar com alguem!"
+      },
+      "portal": {
+        "message": "Vou checar com alguem!"
       }
     }
   },
@@ -235,6 +291,14 @@
       "portal": {
         "message": "Você consegue visualizar as suas transações através do portal da Alelo ou da Cielo. http://www.alelo.com.br/"
       }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
+      },
+      "portal": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
+      }
     }
   },
   "Sodexo":{
@@ -268,6 +332,14 @@
       },
       "portal": {
         "message": "Você consegue visualizar as suas transações através do portal da Sodexo. https://www.sodexobeneficios.com.br/"
+      }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
+      },
+      "portal": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
       }
     }
   },
@@ -303,6 +375,14 @@
       "portal": {
         "message": "Você consegue visualizar as suas transações através do portal da Ticket. http://www.ticket.com.br/"
       }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
+      },
+      "portal": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
+      }
     }
   },
   "VR":{
@@ -337,6 +417,14 @@
       "portal": {
         "message": "Você consegue visualizar as suas transações através do portal da VR Benefícios. https://www.vr.com.br/portal/portal-vr"
       }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
+      },
+      "portal": {
+        "message": "Voce provavelmente não esta apto a aceitar vouchers. Vou chamar alguem pra checar!"
+      }
     }
 
   },
@@ -366,6 +454,14 @@
       }
     },
     "view_sales": {
+      "app": {
+        "message": "Ainda não aceitamos Diners"
+      },
+      "portal": {
+        "message": "Ainda não aceitamos Diners"
+      }
+    },
+    "enable_card_brand_not_showing": {
       "app": {
         "message": "Ainda não aceitamos Diners"
       },
@@ -406,6 +502,14 @@
       },
       "portal": {
         "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
+      }
+    },
+    "enable_card_brand_not_showing": {
+      "app": {
+        "message": "Vou ver com alguém"
+      },
+      "portal": {
+        "message": "Vou ver com alguém"
       }
     }
   }
