@@ -1,0 +1,10 @@
+{
+  "other_stonecodes": {
+   "app": {
+        "message": "Na aba resumo, na parte Resumo da conta, você verá o Stone Code que está ativo. Clicando nele, você verá os outros Stone Codes das suas filiais e é só clicar no que você quer."
+      },
+      "portal": {
+        "message": "Clique na seta onde tem o nome do estabelecimento do lado direito e clique em "você está vendo como”. Depois escolha a filial que você deseja ver.  Para mais informações:https://stone.force.com/ajuda/s/article/Como-posso-ver-as-informacoes-de-outra-filial-1483536986469"
+      }
+  }
+}
