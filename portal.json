@@ -1,5 +1,5 @@
 {
-  "change_stonecodes": {
+  "change_stonecode": {
    "app": {
         "message": "Na aba resumo, na parte Resumo da conta, você verá o Stone Code que está ativo. Clicando nele, você verá os outros Stone Codes das suas filiais e é só clicar no que você quer."
       },
