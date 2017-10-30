@@ -6,5 +6,13 @@
       "portal": {
         "message": "Clique na seta onde tem o nome do estabelecimento do lado direito e clique em 'você está vendo como'. Depois escolha a filial que você deseja ver.  Para mais informações:https://stone.force.com/ajuda/s/article/Como-posso-ver-as-informacoes-de-outra-filial-1483536986469"
       }
+  },
+  "change_passcode": {
+   "app": {
+        "message": "Trocar senha app."
+      },
+      "portal": {
+        "message": "Trocar senha web"
+      }
   }
 }
