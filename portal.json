@@ -9,10 +9,10 @@
   },
   "change_passcode": {
    "app": {
-        "message": "Trocar senha app."
+        "message": "Voce tem que clicar em 'esqueci minha senha', na tela de login. Para isso, você deve deslogar do aplicativo. Dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Manual-do-Aplicativo-Portal-Stone#A1.3"
       },
       "portal": {
-        "message": "Trocar senha web"
+        "message": "Voce tem que clicar em 'esqueci minha senha', na tela de login. Para isso, você deve deslogar do portal."
       }
   }
 }
