@@ -22,5 +22,13 @@
       "portal": {
         "message": "É simples e fácil, siga o passo a passo deste link https://goo.gl/n3fzWT"
       }
+  },
+  "request_paper_roll": {
+   "app": {
+        "message": "É só clicar em serviços, solicitar bobina e preencher os campos necessários. Qualquer dúvida, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-pedir-bobina"
+      },
+      "portal": {
+        "message": "Vá na aba logística, clique em pedido de bobina e preencha os campos necessários. Qualquer dúvida, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Como-pedir-bobina-no-portal-do-cliente-1493409307759"
+      }
   }
 }
