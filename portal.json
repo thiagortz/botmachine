@@ -30,5 +30,13 @@
       "portal": {
         "message": "Vá na aba logística, clique em pedido de bobina e preencha os campos necessários. Qualquer dúvida, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Como-pedir-bobina-no-portal-do-cliente-1493409307759"
       }
+  },
+  "simulate_antecipation": {
+   "app": {
+        "message": "Pra simular no app, você vai na aba Antecipação e aperta em simular. "
+      },
+      "portal": {
+        "message": "Simular no portal web."
+      }
   }
 }
