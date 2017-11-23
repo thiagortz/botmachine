@@ -49,8 +49,7 @@
   },
   "view_chargeback": {
    "app": {
-        "message": "Você consegue ver nos detalhes da transação. Pelo app, não dá pra ver todos juntos.
-"
+        "message": "Você consegue ver nos detalhes da transação. Pelo app, não dá pra ver todos juntos."
       },
       "portal": {
         "message": "Dentro de busca Livre, selecione o status da transação como chargeback. Selecione a data desejada e clique em buscar. Quaquer dúvida, dá uma olhada nesse link aqui: https://stone.force.com/ajuda/s/article/Como-visualizo-meus-chargebacks-1483536983682"
