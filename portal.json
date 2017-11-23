@@ -38,5 +38,14 @@
       "portal": {
         "message": "Simular no portal web."
       }
+  },
+  "disable_antecipation": {
+   "app": {
+        "message": "Clique em antecipação, automático e desativar. Aí vai pedir para você colocar sua senha, e você confirma. Após isso, o status ficará desativado. Se tiver dúvida, dá uma olhada nesse link (iOS):https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-fazer-uma-antecipa%C3%A7%C3%A3o-iOS#ap ou esse (Android):https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-fazer-uma-antecipa%C3%A7%C3%A3o-Android#aa
+ "
+      },
+      "portal": {
+        "message": "Clique em antecipação, automático e desativar. Aí vai pedir para você colocar sua senha, e você confirma. Após isso, o status ficará desativado. "
+      }
   }
 }
