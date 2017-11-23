@@ -33,10 +33,10 @@
   },
   "simulate_antecipation": {
    "app": {
-        "message": "Pra simular no app, você vai na aba Antecipação e aperta em simular. "
+        "message": "Pra simular no app, você vai na aba Antecipação, escolhe o valor e aperta em simular. "
       },
       "portal": {
-        "message": "Simular no portal web."
+        "message": "Para simular no portal, você vai em antecipação, escolhe o valor e aperta em Simular."
       }
   },
   "disable_antecipation": {
