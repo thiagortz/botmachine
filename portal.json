@@ -57,10 +57,10 @@
   },
   "new_contact": {
    "app": {
-        "message": "VNovo contato app."
+        "message": "não dá pra fazer pelo app :( Mas você pode fazer pelo Portal web, assim:Clique na setinha do lado do seu nome no canto superior direito, depois em Dados do cliente e role para baixo. Na parte de Contatos, clique em  adicionar novo contato e preencha os dados necessários e depois clique em Adicionar contato."
       },
       "portal": {
-        "message": "Novo contato web"
+        "message": "Clique na setinha do lado do seu nome no canto superior direito, depois em Dados do cliente e role para baixo. Na parte de Contatos, clique em  adicionar novo contato e preencha os dados necessários e depois clique em Adicionar contato."
       }
   }
 }
