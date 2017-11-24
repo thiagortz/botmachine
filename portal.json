@@ -54,5 +54,13 @@
       "portal": {
         "message": "Dentro de busca Livre, selecione o status da transação como chargeback. Selecione a data desejada e clique em buscar. Quaquer dúvida, dá uma olhada nesse link aqui: https://stone.force.com/ajuda/s/article/Como-visualizo-meus-chargebacks-1483536983682"
       }
+  },
+  "new_contact": {
+   "app": {
+        "message": "VNovo contato app."
+      },
+      "portal": {
+        "message": "Novo contato web"
+      }
   }
 }
