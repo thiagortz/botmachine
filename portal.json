@@ -1,74 +1,82 @@
 {
   "change_stonecode": {
-   "app": {
-        "message": "Na aba resumo, na parte Resumo da conta, você verá o Stone Code que está ativo. Clicando nele, você verá os outros Stone Codes das suas filiais e é só clicar no que você quer."
-      },
-      "portal": {
-        "message": "Clique na seta onde tem o nome do estabelecimento do lado direito e clique em 'você está vendo como'. Depois escolha a filial que você deseja ver.  Para mais informações:https://stone.force.com/ajuda/s/article/Como-posso-ver-as-informacoes-de-outra-filial-1483536986469"
-      }
+    "app": {
+      "message": "Na aba resumo, na parte Resumo da conta, você verá o Stone Code que está ativo. Clicando nele, você verá os outros Stone Codes das suas filiais e é só clicar no que você quer."
+    },
+    "portal": {
+      "message": "Clique na seta onde tem o nome do estabelecimento do lado direito e clique em 'você está vendo como'. Depois escolha a filial que você deseja ver.  Para mais informações:https://stone.force.com/ajuda/s/article/Como-posso-ver-as-informacoes-de-outra-filial-1483536986469"
+    }
   },
   "change_password": {
-   "app": {
-        "message": "Voce tem que clicar em 'esqueci minha senha', na tela de login. Para isso, você deve deslogar do aplicativo. Dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Manual-do-Aplicativo-Portal-Stone#A1.3"
-      },
-      "portal": {
-        "message": "Voce tem que clicar em 'esqueci minha senha', na tela de login. Para isso, você deve deslogar do portal."
-      }
+    "app": {
+      "message": "Voce tem que clicar em 'esqueci minha senha', na tela de login. Para isso, você deve deslogar do aplicativo. Dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Manual-do-Aplicativo-Portal-Stone#A1.3"
+    },
+    "portal": {
+      "message": "Voce tem que clicar em 'esqueci minha senha', na tela de login. Para isso, você deve deslogar do portal."
+    }
   },
   "punctual_antecipation": {
-   "app": {
-        "message": "Antecipaçao pontual app"
-      },
-      "portal": {
-        "message": "É simples e fácil, siga o passo a passo deste link https://goo.gl/n3fzWT"
-      }
+    "app": {
+      "message": "Antecipaçao pontual app"
+    },
+    "portal": {
+      "message": "É simples e fácil, siga o passo a passo deste link https://goo.gl/n3fzWT"
+    }
   },
   "request_paper_roll": {
-   "app": {
-        "message": "É só clicar em serviços, solicitar bobina e preencher os campos necessários. Qualquer dúvida, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-pedir-bobina"
-      },
-      "portal": {
-        "message": "Vá na aba logística, clique em pedido de bobina e preencha os campos necessários. Qualquer dúvida, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Como-pedir-bobina-no-portal-do-cliente-1493409307759"
-      }
+    "app": {
+      "message": "É só clicar em serviços, solicitar bobina e preencher os campos necessários. Qualquer dúvida, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-pedir-bobina"
+    },
+    "portal": {
+      "message": "Vá na aba logística, clique em pedido de bobina e preencha os campos necessários. Qualquer dúvida, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Como-pedir-bobina-no-portal-do-cliente-1493409307759"
+    }
   },
   "simulate_antecipation": {
-   "app": {
-        "message": "Pra simular no app, você vai na aba Antecipação, escolhe o valor e aperta em simular. "
-      },
-      "portal": {
-        "message": "Para simular no portal, você vai em antecipação, escolhe o valor e aperta em Simular."
-      }
+    "app": {
+      "message": "Pra simular no app, você vai na aba Antecipação, escolhe o valor e aperta em simular. "
+    },
+    "portal": {
+      "message": "Para simular no portal, você vai em antecipação, escolhe o valor e aperta em Simular."
+    }
   },
   "disable_antecipation": {
-   "app": {
-        "message": "Clique em antecipação, automático e desativar. Aí vai pedir para você colocar sua senha, e você confirma. Após isso, o status ficará desativado. Se tiver dúvida, dá uma olhada nesse link (iOS):  https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-fazer-uma-antecipa%C3%A7%C3%A3o-iOS#ap ou esse (Android):  https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-fazer-uma-antecipa%C3%A7%C3%A3o-Android#aa"
-      },
-      "portal": {
-        "message": "Clique em antecipação, automático e desativar. Aí vai pedir para você colocar sua senha, e você confirma. Após isso, o status ficará desativado. "
-      }
+    "app": {
+      "message": "Clique em antecipação, automático e desativar. Aí vai pedir para você colocar sua senha, e você confirma. Após isso, o status ficará desativado. Se tiver dúvida, dá uma olhada nesse link (iOS):  https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-fazer-uma-antecipa%C3%A7%C3%A3o-iOS#ap ou esse (Android):  https://stone.force.com/ajuda/s/article/Aplicativo-Portal-Stone-Como-fazer-uma-antecipa%C3%A7%C3%A3o-Android#aa"
+    },
+    "portal": {
+      "message": "Clique em antecipação, automático e desativar. Aí vai pedir para você colocar sua senha, e você confirma. Após isso, o status ficará desativado. "
+    }
   },
   "view_chargeback": {
-   "app": {
-        "message": "Você consegue ver nos detalhes da transação. Pelo app, não dá pra ver todos juntos."
-      },
-      "portal": {
-        "message": "Dentro de busca Livre, selecione o status da transação como chargeback. Selecione a data desejada e clique em buscar. Quaquer dúvida, dá uma olhada nesse link aqui: https://stone.force.com/ajuda/s/article/Como-visualizo-meus-chargebacks-1483536983682"
-      }
+    "app": {
+      "message": "Você consegue ver nos detalhes da transação. Pelo app, não dá pra ver todos juntos."
+    },
+    "portal": {
+      "message": "Dentro de busca Livre, selecione o status da transação como chargeback. Selecione a data desejada e clique em buscar. Quaquer dúvida, dá uma olhada nesse link aqui: https://stone.force.com/ajuda/s/article/Como-visualizo-meus-chargebacks-1483536983682"
+    }
   },
   "new_contact": {
-   "app": {
-        "message": "não dá pra fazer pelo app :( Mas você pode fazer pelo Portal web, assim:Clique no nome fantasia do seu estabelecimento no canto superior direito, depois em Dados do cliente e role para baixo. Na parte de Contatos, clique em  adicionar novo contato e preencha os dados necessários e depois clique em Adicionar contato."
-      },
-      "portal": {
-        "message": "Clique no nome fantasia do seu estabelecimento no canto superior direito, depois em Dados do cliente e role para baixo. Na parte de Contatos, clique em  adicionar novo contato e preencha os dados necessários e depois clique em Adicionar contato."
-      }
+    "app": {
+      "message": "não dá pra fazer pelo app :( Mas você pode fazer pelo Portal web, assim:Clique no nome fantasia do seu estabelecimento no canto superior direito, depois em Dados do cliente e role para baixo. Na parte de Contatos, clique em  adicionar novo contato e preencha os dados necessários e depois clique em Adicionar contato."
+    },
+    "portal": {
+      "message": "Clique no nome fantasia do seu estabelecimento no canto superior direito, depois em Dados do cliente e role para baixo. Na parte de Contatos, clique em  adicionar novo contato e preencha os dados necessários e depois clique em Adicionar contato."
+    }
   },
   "enable_automatic_antecipation": {
-   "app": {
-        "message": "Escolha a aba ‘Antecipação’ no portal. Clique em automáticao e escolha a modalidade desejada (diária, semanal ou mensal). Clique em ativar, escreva a sua senha e clique em ok. Qualquer coisa, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Recebimento-antecipado-no-portal-do-cliente-RAV-1493414516478"
-      },
-      "portal": {
-        "message": "Vá em Antecipação, escolha Programada, escolha a modalidade (diária, semanal ou mensal) e confirme os dados e coloque a senha. Após isso, sua antecipação automática estará ativada! Qualquer dúvida, olha esse link aqui: https://stone.force.com/ajuda/s/article/Manual-do-Aplicativo-Portal-Stone#A5."
-      }
+    "app": {
+      "message": "Escolha a aba ‘Antecipação’ no portal. Clique em automáticao e escolha a modalidade desejada (diária, semanal ou mensal). Clique em ativar, escreva a sua senha e clique em ok. Qualquer coisa, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Recebimento-antecipado-no-portal-do-cliente-RAV-1493414516478"
+    },
+    "portal": {
+      "message": "Vá em Antecipação, escolha Programada, escolha a modalidade (diária, semanal ou mensal) e confirme os dados e coloque a senha. Após isso, sua antecipação automática estará ativada! Qualquer dúvida, olha esse link aqui: https://stone.force.com/ajuda/s/article/Manual-do-Aplicativo-Portal-Stone#A5."
+    }
+  },
+  "view_taxes": {
+    "app": {
+      "message": "Você deve ir na tela de Perfil. A tela de perfil exibe seus dados gerais.\nAlém do nome, CNPJ e Razão Social, esta tela exibe as taxas de cada bandeira.\n\nArraste para os lados ou toque em cada bandeira para que as taxas específicas daquela bandeira sejam exibidas."
+    },
+    "portal": {
+      "message": "Acesse seu portal e clique em cima do nome fantasia do seu estabelecimento, no canto superior direito da tela. Em seguida, clique em Dados do cliente. Você vai conseguir verificar todas as informações básicas da empresa e a taxa cadastrada conosco. Qualquer dúvida pode olhar este link: https://goo.gl/P69rsu Vouchers você consegue a taxa com a própria bandeira. "
+    }
   }
 }
