@@ -78,5 +78,13 @@
     "portal": {
       "message": "Acesse seu portal e clique em cima do nome fantasia do seu estabelecimento, no canto superior direito da tela. Em seguida, clique em Dados do cliente. Você vai conseguir verificar todas as informações básicas da empresa e a taxa cadastrada conosco. Qualquer dúvida pode olhar este link: https://goo.gl/P69rsu Vouchers você consegue a taxa com a própria bandeira. "
     }
+  },
+  "view_canceled_sale": {
+    "app": {
+      "message": "Pelo app você ó consegue encontrar pela própria transação, na aba vendas. Você deve achar a transação e clicar nela."
+    },
+    "portal": {
+      "message": "No menu superior, clique em 'Busca Livre'. Coloque os filtros e selecione o Status como 'Cancelada'"
+    }
   }
 }
