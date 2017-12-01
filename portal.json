@@ -17,7 +17,7 @@
   },
   "punctual_antecipation": {
     "app": {
-      "message": "Antecipaçao pontual app"
+      "message": "Escolha a aba ‘Antecipação’ no portal. Escolha o valor e clique em simular. Se quiser antecipar, clique em Antecipar, insira sua senha e clique em Confirmar Qualquer coisa, dá uma olhadinha nesse link: https://stone.force.com/ajuda/s/article/Recebimento-antecipado-no-portal-do-cliente-RAV-1493414516478"
     },
     "portal": {
       "message": "É simples e fácil, siga o passo a passo deste link https://goo.gl/n3fzWT"
