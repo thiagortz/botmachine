@@ -18,7 +18,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+        "message": "Para cancelar uma venda da bandeira Visa pode ser feito pelo portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
       },
       "portal": {
         "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
@@ -60,7 +60,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+        "message": "Para cancelar uma venda da bandeira MasterCard pode ser feito pelo portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
       },
       "portal": {
         "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
@@ -102,7 +102,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Não sei ainda."
+        "message": "No momento ainda não sei cancelar vendas da bandeira Hipercard."
       },
       "portal": {
         "message": "Não sei ainda."
@@ -152,7 +152,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Não sei ainda."
+        "message": "No momento ainda não sei cancelar vendas da bandeira Hiper."
       },
       "portal": {
         "message": "Não sei ainda."
@@ -194,7 +194,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Hoje ainda não sei como cancela."
+        "message": "No momento ainda não sei cancelar vendas da bandeira American Express."
       },
       "portal": {
         "message": "Hoje ainda não sei como cancela."
@@ -278,10 +278,10 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira Alelo você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       },
       "portal": {
-        "message": "Você poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira Alelo poderá realizar na sua própria maquininha desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Alelo http://www.alelo.com.br/ , porém só será possível realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
     },
     "view_sales": {
@@ -320,10 +320,10 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira Sodexo pode ser realizado no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       },
       "portal": {
-        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira Sodexo pode ser realizado no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Sodexo https://www.sodexobeneficios.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
     },
     "view_sales": {
@@ -362,10 +362,10 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira Ticket pode ser realizado no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       },
       "portal": {
-        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira Ticket pode ser realizado no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da Ticket http://www.ticket.com.br/, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
     },
     "view_sales": {
@@ -404,10 +404,10 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira VR pode ser realizado no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       },
       "portal": {
-        "message": "Você pode realizar no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
+        "message": "O cancelamento de uma venda da bandeira VR pode ser realizado no próprio POS desde que seja no mesmo dia que a transação foi realizada (D+0). Os demais cancelamentos devem ser feitos na Central de Atendimento da VR Benefícios https://www.vr.com.br/portal/portal-vr, porém só será possivel realizar o cancelamento nesse canal no dia posterior a venda (D+1)."
       }
     },
     "view_sales": {
@@ -447,10 +447,10 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Ainda não aceitamos Diners"
+        "message": "No momento ainda não sei cancelar vendas da bandeira Diners."
       },
       "portal": {
-        "message": "Ainda não aceitamos Diners"
+         "message": "No momento ainda não sei cancelar vendas da bandeira Diners."
       }
     },
     "view_sales": {
