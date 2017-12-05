@@ -18,7 +18,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Para cancelar uma venda da bandeira Visa é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
+        "message": "Encontre a venda no app, na aba vendas. Clique na venda e depois em Cancelar esta transação. Escolha o valor do cancelamento e clique em Cancelar esta transação. Digite sua senha e lique em Confirmar."
       },
       "portal": {
          "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
@@ -60,7 +60,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Para cancelar uma venda da bandeira MasterCard é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
+        "message": "Encontre a venda no app, na aba vendas. Clique na venda e depois em Cancelar esta transação. Escolha o valor do cancelamento e clique em Cancelar esta transação. Digite sua senha e lique em Confirmar."
       },
       "portal": {
          "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
@@ -102,7 +102,7 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "No momento ainda não sei cancelar vendas da bandeira Hipercard."
+        "message": "Encontre a venda no app, na aba vendas. Clique na venda e depois em Cancelar esta transação. Escolha o valor do cancelamento e clique em Cancelar esta transação. Digite sua senha e lique em Confirmar.."
       },
       "portal": {
         "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
@@ -125,13 +125,13 @@
       }
     }
   },
-"Hiper": {
+ "Hiper": {
     "enable_card_brand": {
       "app": {
-        "message": "Hiper está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+        "message": "Para solicitar tal habilitação, você pode entrar em contato com a gente através do nosso chat no site, no Portal Stone ou no aplicativo da Stone. Para mais informações consultar o link https://goo.gl/Gc9vJz"
       },
       "portal": {
-        "message": "Hiper está em fase de testes e devera ser disponibilizada ao longo desse semestre."
+        "message": "Para solicitar tal habilitação, você pode entrar em contato com a gente através do nosso chat no site, no Portal Stone ou no aplicativo da Stone. Para mais informações consultar o link https://goo.gl/Gc9vJz"
       }
     },
     "how_receive_payments": {
@@ -140,22 +140,14 @@
       },
       "portal": {
         "message": "você receberá seus pagamentos em sua conta bancária cadastrada conosco. É importante saber que só conseguiremos efetuar os pagamentos se sua conta bancária estiver vinculada ao CPF ou CNPJ de cadastro.️"
-      },
-    "enable_card_brand_not_showing": {
-      "app": {
-        "message": "Vou checar com alguem!"
-      },
-      "portal": {
-        "message": "Vou checar com alguem!"
       }
-    }
     },
     "cancel_sales": {
       "app": {
-        "message": "No momento ainda não sei cancelar vendas da bandeira Hiper."
+        "message": "Encontre a venda no app, na aba vendas. Clique na venda e depois em Cancelar esta transação. Escolha o valor do cancelamento e clique em Cancelar esta transação. Digite sua senha e lique em Confirmar."
       },
       "portal": {
-        "message": "Não sei ainda."
+        "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
       }
     },
     "view_sales": {
