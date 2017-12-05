@@ -228,18 +228,18 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+        "message": "Encontre a venda no app, na aba vendas. Clique na venda e depois em Cancelar esta transação. Escolha o valor do cancelamento e clique em Cancelar esta transação. Digite sua senha e lique em Confirmar."
       },
       "portal": {
-        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+         "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
       }
     },
     "view_sales": {
       "app": {
-        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       },
       "portal": {
-        "message": "A bandeira Elo é um caso sério, preciso verificar se vc passa Elo no modelo Van ou no Jeito Stone. não sei ainda fazer essas verificações, desculpa!"
+        "message": "Você consegue visualizar as suas transações através do Portal Stone https://portal.stone.com.br/, é só clicar menu 'Suas vendas' e selecionar o período desejado. Para informações mais detalhadas é só clicar em ver por transação."
       }
     },
     "enable_card_brand_not_showing": {
