@@ -21,7 +21,7 @@
         "message": "Para cancelar uma venda da bandeira Visa é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
       },
       "portal": {
-         "message": "Para cancelar uma venda da bandeira Visa é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
+         "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
       }
     },
     "view_sales": {
@@ -63,7 +63,7 @@
         "message": "Para cancelar uma venda da bandeira MasterCard é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
       },
       "portal": {
-         "message": "Para cancelar uma venda da bandeira MasterCard é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
+         "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
       }
     },
     "view_sales": {
@@ -105,7 +105,7 @@
         "message": "No momento ainda não sei cancelar vendas da bandeira Hipercard."
       },
       "portal": {
-        "message": "Não sei ainda."
+        "message": "Você deve ir até a aba de Busca livre e colocar o Stone ID da transação (é o código que fica no comprovante),  então pode buscar. Quando aparecer a transação, você deve clicar em cima pra abrir os detalhes. No canto direito, logo abaixo do Stone ID tem o botão de cancelar esta transação. Aparecerá as opções de cancelamento parcial e total e os dados para a confirmação do cancelamento. O status da sua venda ficará como “cancelamento agendado” até o dia seguinte, quando o portal é atualizado. Após isso, o status mudará para Cancelado e no detalhe da transação, aparecerá o botão para baixar carta de cancelamento."
       }
     },
     "view_sales": {
