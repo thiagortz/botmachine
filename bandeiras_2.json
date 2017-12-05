@@ -18,10 +18,10 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Para cancelar uma venda da bandeira Visa pode ser feito pelo portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+        "message": "Para cancelar uma venda da bandeira Visa é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
       },
       "portal": {
-        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+         "message": "Para cancelar uma venda da bandeira Visa é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
       }
     },
     "view_sales": {
@@ -60,10 +60,10 @@
     },
     "cancel_sales": {
       "app": {
-        "message": "Para cancelar uma venda da bandeira MasterCard pode ser feito pelo portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+        "message": "Para cancelar uma venda da bandeira MasterCard é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
       },
       "portal": {
-        "message": "Cancelar uma venda no portal da Stone é bem simples da uma olhada neste link: https://goo.gl/RBSZnd"
+         "message": "Para cancelar uma venda da bandeira MasterCard é bem simples pelo portal da Stone, da uma olhada neste link: https://goo.gl/RBSZnd"
       }
     },
     "view_sales": {
