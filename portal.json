@@ -73,10 +73,10 @@
   },
   "view_taxes": {
     "app": {
-      "message": "Você deve ir na tela de Perfil. A tela de perfil exibe seus dados gerais.\nAlém do nome, CNPJ e Razão Social, esta tela exibe as taxas de cada bandeira.\n\nArraste para os lados ou toque em cada bandeira para que as taxas específicas daquela bandeira sejam exibidas."
+      "message": "Você deve ir na tela de Perfil. A tela de perfil exibe seus dados gerais.\nAlém do nome, CNPJ e Razão Social, esta tela exibe as taxas de cada bandeira.\n\nArraste para os lados ou toque em cada bandeira para que as taxas específicas daquela bandeira sejam exibidas. Vouchers é só com a própria bandeira, não temos essas taxas."
     },
     "portal": {
-      "message": "Acesse seu portal e clique em cima do nome fantasia do seu estabelecimento, no canto superior direito da tela. Em seguida, clique em Dados do cliente. Você vai conseguir verificar todas as informações básicas da empresa e a taxa cadastrada conosco. Qualquer dúvida pode olhar este link: https://goo.gl/P69rsu Vouchers você consegue a taxa com a própria bandeira. "
+      "message": "Acesse seu portal e clique em cima do nome fantasia do seu estabelecimento, no canto superior direito da tela. Em seguida, clique em Dados do cliente. Você vai conseguir verificar todas as informações básicas da empresa e a taxa cadastrada conosco. Qualquer dúvida pode olhar este link: https://goo.gl/P69rsu Vouchers você consegue a taxa com a própria bandeira, no temos essas taxas. "
     }
   },
   "view_canceled_sale": {
