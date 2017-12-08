@@ -212,10 +212,10 @@
   "Elo":{
     "enable_card_brand": {
       "app": {
-        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/vd2Mgd"
+        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/Como-habilitar-a-bandeira-Elo"
       },
       "portal": {
-        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://goo.gl/vd2Mgd"
+        "message": "Para habilitar a bandeira Elo em sua maquininha é necessário realizar um passo a passo bem simples, da uma olhada neste link: https://stone.force.com/ajuda/s/article/Como-habilitar-a-bandeira-Elo"
       }
     },
     "how_receive_payments": {
